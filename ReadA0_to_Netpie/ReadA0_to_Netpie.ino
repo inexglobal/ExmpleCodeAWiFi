@@ -4,8 +4,8 @@
 #include <ESP8266WiFi.h>
 #include <MicroGear.h>
 
-const char* ssid     = "SBT_Student";
-const char* password = "saraburi2017";
+const char* ssid     = "SSID";
+const char* password = "123456789-0";
 
 #define APPID   "GroupInex"
 #define KEY     "Yn1yT7QqyKyYFk6"
